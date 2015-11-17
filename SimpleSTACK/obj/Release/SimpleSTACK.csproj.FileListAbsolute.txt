@@ -1,0 +1,9 @@
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\bin\Release\SimpleSTACK.exe.config
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\bin\Release\SimpleSTACK.exe
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\bin\Release\SimpleSTACK.pdb
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\obj\Release\SimpleSTACK.Form1.resources
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\obj\Release\SimpleSTACK.Properties.Resources.resources
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\obj\Release\SimpleSTACK.csproj.GenerateResource.Cache
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\obj\Release\SimpleSTACK.exe
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\obj\Release\SimpleSTACK.pdb
+C:\Users\bsteinmeier\documents\visual studio 2015\Projects\SimpleSTACK\SimpleSTACK\obj\Release\SimpleSTACK.csprojResolveAssemblyReference.cache
